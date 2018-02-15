@@ -1,0 +1,17 @@
+Assets
+ProjectSettings
+UnityPackageManager
+*csproj
+*unityproj
+*sln
+*userprefs
+.vs
+*.apk
+*.app
+Library
+Temp
+App
+Server
+ExamplesApp
+*/Library/*
+*/Temp/*
